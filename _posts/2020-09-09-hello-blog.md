@@ -1,14 +1,13 @@
 ---
 layout:     post
-title:      "Hello 2015"
-subtitle:   " \"Hello World, Hello Blog\""
-date:       2015-01-29 12:00:00
-author:     "Hux"
-header-img: "img/post-bg-2015.jpg"
+title:      "Hello, My Blog"
+subtitle:   "This is just a test lalala"
+date:       2020-09-09
+author:     "Andy"
+header-img: ""
 catalog: true
 tags:
-    - 生活
-    - Meta
+    - test
 ---
 
 > “Yeah It's on. ”
