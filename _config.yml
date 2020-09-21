@@ -79,7 +79,7 @@ netease_comment: false
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: ""
-sidebar-avatar: /img/avatar-hux-ny.jpg      # sidebar image
+sidebar-avatar: /img/self_photo.jpg      # sidebar image
 
 
 
