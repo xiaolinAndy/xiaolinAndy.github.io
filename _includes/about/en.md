@@ -1,33 +1,14 @@
-> Your time is limited, so don’t waste it living someone else’s life. 
+Hello everyone, I am the blogger Haitao Lin, you can also call me Andy. I am studying in Institute of Automation，Chinese Academy of Sciences, [Professor Chengqing Zong](http://www.nlpr.ia.ac.cn/cip/cqzong.htm)‘s Natural Language Processing Group, and my tutor is Professor Yu Zhou. My research area includes dialogue system, text summarization and natural language understanding. If you want to contact me, please email to haitao.lin@nlpr.ia.ac.cn.
 
-Hi, I am _@huxpro_ (Huang, Xuan), a [Facebook](https://www.facebook.com/) software engineer and a degreed digital designer. My interests range from programming languages in general (type system, type-based formal verification, compilers, runtime systems, garbage collection) to indurstial software engineering (web/mobile app development, user interface and UX, developer infrastructure and DX). 
+##### Academic Experience
 
-In the past, I worked on [Alitrip (Fliggy)](https://www.alitrip.com/) mobile and web apps under the [Alibaba Group](https://en.wikipedia.org/wiki/Alibaba_Group), found and lead front-end infrastructure team at a unicorn startup [Beijing Weiying (WePiao)](https://www.crunchbase.com/organization/beijing-weiying-technology), and helped [Ele.me](https://en.wikipedia.org/wiki/Ele.me) to upgrade their mobile web into [the first influential PWA (progressive web app) in China](https://medium.com/elemefe/upgrading-ele-me-to-progressive-web-app-2a446832e509).
+- Sep. 2018-now PhD, Institute of Automation, Chinese Academy of Sciences
+- Sep. 2014-Jun. 2018 bachelor, Computer Science and Technology, University of Chinese Academy of Sciences
 
-I studied BA, Digital Media Art at [Communication University of China](https://en.wikipedia.org/wiki/Communication_University_of_China) and MS, Computer Science with a focus on programming languages at [Rochester Institute of Technology](https://en.wikipedia.org/wiki/Rochester_Institute_of_Technology).
 
-##### [My PL Spectrum (WIP 🚧)](https://huangxuan.me/2020/05/05/pl-chart/)
+##### Essay
 
-I made a chart to visualize my experiences and interests on some of the programming languages.   I know, I know this could be very contraversial. But it's a quite self-entertaining side project to do right? So have fun and don't take it too serious!
+- 2020
+  - [ACL 2020 论文解读： DST又有新的SOTA了？基于层级化注意力网络和自适应目标函数的对话状态追踪方法](https://mp.weixin.qq.com/s?__biz=MzUzOTYzNjIwMw==&mid=2247484095&idx=2&sn=864dcee7eee3c4276d143982e9e2023d&chksm=fac43a3bcdb3b32de6ea185e44564f403fd4d9e56c9164aad4d6c9d61a95738d88c6855ff469&scene=126&sessionid=1600427264&key=92bd8fadcb6a4858b3a03b84e4568cc046736758525df2a56c5c2452ee55299897be8e3c27813705793ca6bcd9d5abfc6a8deeb48f4d6653a93b608c61f8c6d54559e3eacf76cf5dd5589d256d2d7c7b7d9d4ea2c80f1d41ca385d3815567e7bbde9e8c6e78ad753ae7d49d16f70e58d6e69f597de42a4bb31424eccee7d4f20&ascene=1&uin=MTQ1MzYwMDQ2MQ%3D%3D&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=ATIXdL9cZLtF%2Fsi%2F%2Fv1suUw%3D&pass_ticket=lBE3%2FmpXzXUQKKr0MvyQUMTTmIb402LYpsJK17pZRqdqUQbkJ1KqmrM3pTOahGkX&wx_header=0)
 
-##### Appearence
 
-- [Upgrading to Progressive Web Apps][9] · [JSConf China Shanghai 2017](http://2017.jsconf.cn/)
-- Building Progressive Web Apps · [CSDI Guangzhou 2017](http://www.csdisummit.com/)
-- The State of Progressive Web App · GDG IO Redux Beijing 2017
-- PWA Rehashing · Baidu HQ Beijing 2017
-- [Service Worker 101][5] · GDG DevFest Beijing 2016
-- [Progressive Web Apps][4] · QCon Shanghai 2016
-- Progressive Web App in my POV · GDG IO Redux Beijing 2016
-- [CSS Still Sucks 2015][2] · 2015
-- [JavaScript Modularization Journey][1] · 2015
-
-[1]: //huangxuan.me/2015/07/09/js-module-7day/
-[2]: //huangxuan.me/2015/12/28/css-sucks-2015/
-[3]: //huangxuan.me/2016/06/05/pwa-in-my-pov/
-[4]: //huangxuan.me/2016/10/20/pwa-qcon2016/
-[5]: //huangxuan.me/2016/11/20/sw-101-gdgdf/
-[6]: https://yanshuo.io/assets/player/?deck=58ac8598b123db0067292f92 "PWA Rehashing"
-[7]: https://yanshuo.io/assets/player/?deck=593ad6fbfe88c2006a0a0d6d "The State of PWA"
-[8]: https://yanshuo.io/assets/player/?deck=594d673d570c357d0698a950 "Building PWA"
-[9]: //huangxuan.me/jsconfcn2017/

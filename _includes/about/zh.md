@@ -1,33 +1,14 @@
-> 离开世界之前，一切都是过程。
 
-Hi，我是黄玄，前端娱乐圈 NPC，编程语言/编译器初心者，[Facebook](https://www.facebook.com/) 签约软件工程师，[广院](https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E4%BC%A0%E5%AA%92%E5%A4%A7%E5%AD%A6)认证数字设计师，曾被招募为阿里巴巴 · [阿里旅行（飞猪）](http://alitrip.com)· 前端工程师、微影时代 · 微票儿 · 前端基础设施工程团队负责人、[饿了么](https://ele.me/) · 大前端团队 · [PWA 顾问](https://medium.com/elemefe/upgrading-ele-me-to-progressive-web-app-2a446832e509) 等。
-
-目前的物理活动范围主要在美帝硅谷，分身日常出没于[博客](https://huangxuan.me)、[微博](https://weibo.com/huxpro)、[知乎](https://www.zhihu.com/people/huxpro/pins/posts)、[Twitter](https://twitter.com/Huxpro/)、[Github](https://github.com/huxpro)、[Medium](https://medium.com/@Huxpro)。
+大家好，我是本博客的博主林海涛，大家也可以叫我Andy。我目前就读于中科院自动化研究所，[宗成庆研究员](http://www.nlpr.ia.ac.cn/cip/cqzong.htm)带领的[自然语言处理研究组](http://www.nlpr.ia.ac.cn/cip/introduction.htm)自然语言处理研究组，导师是周玉研究员。我的研究方向包括对话系统、文本摘要和自然语言理解。如果想联系我可以发送邮件至haitao.lin@nlpr.ia.ac.cn。
 
 
-##### [我的编程语言可视化 (WIP 🚧)](https://huangxuan.me/2020/05/05/pl-chart/)
+##### 学术经历
 
-这个图表可视化了我对于各种编程语言的使用经历、兴趣，还附带了一些评语和解释等等。 啊我知道对比编程语言是一件很有争议的事情……自娱自乐一下！不要太较真哦 ;)
+- 2018.09-现在 博士，中国科学院自动化研究所
+- 2014.09-2018.06 学士，计算机科学与技术，中国科学院大学
 
 
-##### 演讲与分享
+##### 个人文章
 
-- [Upgrading to Progressive Web Apps][9] · [JSConf CN 上海 2017](http://2017.jsconf.cn/)
-- Building Progressive Web Apps · [CSDI 广州 2017](http://www.csdisummit.com/)
-- The State of Progressive Web App · GDG IO Redux 北京 2017
-- 炒冷饭 · PWA 到底是个什么玩意？· Baidu HQ 北京 2017
-- [Service Worker 101][5] · GDG DevFest 北京 2016
-- [Progressive Web App，复兴序章][4] · [QCon 上海 2016](http://2016.qconshanghai.com/presentation/3111)
-- Progressive Web App 之我见 · GDG IO Redux 北京 2016
-- [CSS Still Sucks 2015][2] · 2015
-- [JavaScript 模块化七日谈][1] · 2015
-
-[1]: //huangxuan.me/2015/07/09/js-module-7day/
-[2]: //huangxuan.me/2015/12/28/css-sucks-2015/
-[3]: //huangxuan.me/2016/06/05/pwa-in-my-pov/
-[4]: //huangxuan.me/2016/10/20/pwa-qcon2016/
-[5]: //huangxuan.me/2016/11/20/sw-101-gdgdf/
-[6]: https://yanshuo.io/assets/player/?deck=58ac8598b123db0067292f92 "PWA Rehashing"
-[7]: https://yanshuo.io/assets/player/?deck=593ad6fbfe88c2006a0a0d6d "The State of PWA"
-[8]: https://yanshuo.io/assets/player/?deck=594d673d570c357d0698a950 "Building PWA"
-[9]: //huangxuan.me/jsconfcn2017/
+- 2020
+  - [ACL 2020 论文解读： DST又有新的SOTA了？基于层级化注意力网络和自适应目标函数的对话状态追踪方法](https://mp.weixin.qq.com/s?__biz=MzUzOTYzNjIwMw==&mid=2247484095&idx=2&sn=864dcee7eee3c4276d143982e9e2023d&chksm=fac43a3bcdb3b32de6ea185e44564f403fd4d9e56c9164aad4d6c9d61a95738d88c6855ff469&scene=126&sessionid=1600427264&key=92bd8fadcb6a4858b3a03b84e4568cc046736758525df2a56c5c2452ee55299897be8e3c27813705793ca6bcd9d5abfc6a8deeb48f4d6653a93b608c61f8c6d54559e3eacf76cf5dd5589d256d2d7c7b7d9d4ea2c80f1d41ca385d3815567e7bbde9e8c6e78ad753ae7d49d16f70e58d6e69f597de42a4bb31424eccee7d4f20&ascene=1&uin=MTQ1MzYwMDQ2MQ%3D%3D&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=ATIXdL9cZLtF%2Fsi%2F%2Fv1suUw%3D&pass_ticket=lBE3%2FmpXzXUQKKr0MvyQUMTTmIb402LYpsJK17pZRqdqUQbkJ1KqmrM3pTOahGkX&wx_header=0)
