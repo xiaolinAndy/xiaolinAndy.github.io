@@ -2,8 +2,8 @@ Hello everyone, I am the blogger Haitao Lin, you can also call me Andy. I am stu
 
 ##### Academic Experience
 
-- Sep. 2018-now PhD, Institute of Automation, Chinese Academy of Sciences
-- Sep. 2014-Jun. 2018 bachelor, Computer Science and Technology, University of Chinese Academy of Sciences
+- Sep. 2018-now &emsp; PhD, Institute of Automation, Chinese Academy of Sciences
+- Sep. 2014-Jun. 2018 &emsp; Bachelor, Computer Science and Technology, University of Chinese Academy of Sciences
 
 
 ##### Essay

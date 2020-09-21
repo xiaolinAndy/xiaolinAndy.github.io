@@ -1,7 +1,7 @@
 # Site settings
 title: Andy's Blog  # title in the main page
 SEOTitle: Andy's Blog # label page title
-header-img: img/home-bg.jpg # homepage background pic
+header-img: img/my_bg.jpg # homepage background pic
 email: conanandy@163.com # unknown
 description: "个人博客"
 keyword: "计算机，NLP"

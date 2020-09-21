@@ -4,10 +4,11 @@ title:      "A summary of meta learning"
 subtitle:   "介绍一下NLP中很火的元学习"
 date:       2020-09-14
 author:     "Andy"
-header-img: ""
+header-img: "img/post_bg.jpg"
 catalog: true
 tags:
-    - test
+    - meta learning
+    - NLP
 ---
 
 
