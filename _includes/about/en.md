@@ -5,6 +5,10 @@ Hello everyone, I am the blogger Haitao Lin, you can also call me Andy. I am stu
 - Sep. 2018-now &emsp; PhD, Institute of Automation, Chinese Academy of Sciences
 - Sep. 2014-Jun. 2018 &emsp; Bachelor, Computer Science and Technology, University of Chinese Academy of Sciences
 
+##### Honor
+
+- 2021 ACL-IJCNLP Student Research Workshop Co-chair
+- 2019 National Graduate Student Math Modeling Competition Third Prize
 
 ##### Essay
 
