@@ -1,4 +1,4 @@
-Hello everyone, I am the blogger Haitao Lin, you can also call me Andy. I am studying in Institute of Automation，Chinese Academy of Sciences, [Professor Chengqing Zong](http://www.nlpr.ia.ac.cn/cip/cqzong.htm)‘s Natural Language Processing Group, and my tutor is Professor Yu Zhou. My research area includes dialogue system, text summarization and natural language understanding. If you want to contact me, please email to haitao.lin@nlpr.ia.ac.cn.
+Hello everyone, I am the blogger Haitao Lin, you can also call me Andy. I am studying in Institute of Automation，Chinese Academy of Sciences, [Professor Chengqing Zong](http://www.nlpr.ia.ac.cn/cip/cqzong.htm)'s [Natural Language Processing Group](http://www.nlpr.ia.ac.cn/cip/introduction.htm), and my tutor is Professor Yu Zhou. My research area includes dialogue system, text summarization and natural language understanding. If you want to contact me, please email to haitao.lin@nlpr.ia.ac.cn.
 
 ##### Academic Experience
 
