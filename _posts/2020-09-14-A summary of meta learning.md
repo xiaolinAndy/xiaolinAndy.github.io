@@ -6,6 +6,7 @@ date:       2020-09-14
 author:     "Andy"
 header-img: "img/post_bg.jpg"
 catalog: true
+mathjax: true
 tags:
     - meta learning
     - NLP
