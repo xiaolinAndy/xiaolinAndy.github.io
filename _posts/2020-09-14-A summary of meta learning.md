@@ -54,12 +54,12 @@ A：目的是想更快更好地学习新的任务。
 **Learn to Fine-tune：学习如何更好地优化模型，使得其在所有任务上都有不错的效果**
 
 - MAML：
-  - 对于任务$T_i$，训练更新参数$\theta$，在验证集上得到$loss_i$![formula_1](F:\formula_1.png)
-  - 对于所有任务，根据$loss_i$优化参数$\theta$![formula_2](F:\formula_2.png)
+  - 对于任务$T_i$，训练更新参数$\theta$，在验证集上得到$loss_i$![formula_1](formula_1.png)
+  - 对于所有任务，根据$loss_i$优化参数$\theta$![formula_2](formula_2.png)
 - First-Order MAML:
-  - 忽略$\hat{\theta}$到$\theta$的梯度![formula_3](F:\formula_3.png)
+  - 忽略$\hat{\theta}$到$\theta$的梯度![formula_3](formula_3.png)
 - Reptile：
-  - 在每个任务上训练n次，然后对于更新的参数变化求平均![formula_4](F:\formula_4.png)
+  - 在每个任务上训练n次，然后对于更新的参数变化求平均![formula_4](formula_4.png)
 
 #### 在NLP中的应用：
 
